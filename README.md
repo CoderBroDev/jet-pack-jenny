@@ -8,10 +8,4 @@ Play Jetpack Jenny for 3$ only on itch.io-
 Controls- 
 Spacebar to fly
 
-## Blocks preview
-
-This image shows the blocks code that I used to make the game
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/coderbrodev/jet-pack-jenny/raw/master/.github/makecode/blocks.png)
 
